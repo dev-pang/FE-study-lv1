@@ -51,19 +51,19 @@
 ```bash
 
 ########## 설치한 직후에 email, name 설정 ##########
-$ git config --global user.name "junilhwang"          # 본인의 github id 입력
-$ git config --global user.email "junil.h@kakao.com"  # 본인의 github email 입력
+$ git config --global user.name "kingsjw"          # 본인의 github id 입력
+$ git config --global user.email "kingsjw7@gmail.com"  # 본인의 github email 입력
 #################################################
 
 # 프로젝트 코드 가져오기
-$ git clone https://github.com/DKU-STUDY/js-study-lv1
+$ git clone https://github.com/dev-pang/FE-study-lv1
 
 # 프로젝트 폴더로 이동하기
 $ cd js-study-lv
 
 # 원격 저장소 존재 여부 확인
 $ git remote  
-> origin # origin은 `https://github.com/DKU-STUDY/js-study-lv1`의 별칭으로 등록된 원격 저장소
+> origin # origin은 `https://github.com/dev-pang/FE-study-lv1`의 별칭으로 등록된 원격 저장소
 
 # 테스트 파일 추가 
 $ echo "테스트 파일 추가" > test.txt
@@ -78,7 +78,7 @@ $ git commit -m "테스트 파일 추가"
 $ git push origin main
 
 # 위의 명령어는 다음 명령어와 똑같음
-$ git push https://github.com/DKU-STUDY/js-study-lv1 main
+$ git push https://github.com/dev-pang/FE-study-lv1 main
 ```
 * 잘 이해가 되지 않을 경우 디스코드 채널에 질문 남겨주세요!
 
