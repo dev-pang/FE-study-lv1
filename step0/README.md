@@ -41,8 +41,14 @@
 [git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 ## 사용법
-- 깃허브 가입하기
-- 깃 설치
+
+### 깃허브 가입하기
+[깃허브](https://github.com/)에 접속해서 가입해주세요.
+
+### 깃 설치
+[깃](https://git-scm.com/)에 접속해서 깃을 설치해주세요.
+
+### 깃 로컬 환경설정
 - 레포지터리(저장소) 클론
 - 브랜치 만들기
 - 코드 수정해보기
