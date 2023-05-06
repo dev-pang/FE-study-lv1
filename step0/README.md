@@ -38,9 +38,11 @@
 5. 개인 포트폴리오 구성에 용이
 깃허브를 이용하면 자신의 소스 코드를 공유하고, 개인 프로젝트나 포트폴리오를 관리할 수 있습니다. 이를 통해 개발 역량을 증명하고, 취업 활동 등에 활용할 수 있습니다.
 
-[git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+[git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)를 한번 씩 읽어봅시다!
 
 ## 사용법
+
+<img width="1180" alt="스크린샷 2023-05-06 오후 2 14 07" src="https://user-images.githubusercontent.com/28668744/236601489-e19fb2c9-7534-4a2c-bfa9-44133e995490.png">
 
 ### 깃허브 가입하기
 [깃허브](https://github.com/)에 접속해서 가입해주세요.
