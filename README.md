@@ -6,6 +6,7 @@
 이 스터디를 완료하면 직접 반응형 웹 페이지를 구현할 수 있게됩니다.
 
 ## 스터디 과정(협의가능)
+- [0주차]: Git & Git Hub 사용법(./step0)
 - [1주차: 반응형 웹에 개념 알아보기](./step1)
 - [2주차: 반응형 웹에 필요한 기술들 익히기](./step2)
 - [3주차: 반응형 웹 페이지 구현하기](./step3)
@@ -81,5 +82,5 @@ $ git push https://github.com/dev-pang/FE-study-lv1 main
 * 잘 이해가 되지 않을 경우 디스코드 채널에 질문 남겨주세요!
 
 ### Github
-- Github Pull Request에 대해 이해해야 합니다.
+- Github Pull Request에 대해 이해해야 합니다.  
 [Github Pull Request 튜토리얼](https://chanhuiseok.github.io/posts/git-3/)
