@@ -58,7 +58,7 @@ $ git config --global user.email "kingsjw7@gmail.com"  # 본인의 github email 
 $ git clone https://github.com/dev-pang/FE-study-lv1
 
 # 프로젝트 폴더로 이동하기
-$ cd js-study-lv
+$ cd FE-study-lv1
 
 # 원격 저장소 존재 여부 확인
 $ git remote  
