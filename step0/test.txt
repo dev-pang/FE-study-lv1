@@ -4,6 +4,12 @@
 
 웹 디자인 기법 중 하나. 디바이스의 디스플레이의 종류에 반응하여 그에 맞도록 적절하게 UI 요소들이 유기적으로 배치되도록 설계된 웹을 말한다.
 
+하나의 템플릿으로 모든기기에 대응할 수 있는 웹 미디어 쿼리를 사용해서 특정화면에 따라 레이아웃을 변경.
+
+
+
 https://www.converse.co.kr/product/find_your_colors.html?utm_source=google&utm_medium=cpc&utm_campaign=google_sa_pc&utm_content=&utm_term=%EC%BB%A8%EB%B2%84%EC%8A%A4&utm_source=google&utm_medium=cpc&utm_campaign=google_sa_pc&utm_content=&utm_term=%EC%BB%A8%EB%B2%84%EC%8A%A4&gclid=CjwKCAjwvJyjBhApEiwAWz2nLS_W8uS7bIK8a3yKFyey0qkBs_k4znivL6o4I8U_6kqaAEtdtvTVERoCuNMQAvD_BwE
 
 https://www.surfit.io/
+
+https://www.i-nara.co.kr/#full0
