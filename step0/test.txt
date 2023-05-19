@@ -1,1 +1,11 @@
-집에 가고싶다3
+1주차 과제
+
+반응형웹이란
+
+웹 디자인 기법 중 하나. 디바이스의 디스플레이의 종류에 반응하여 그에 맞도록 적절하게 UI 요소들이 유기적으로 배치되도록 설계된 웹을 말한다.
+
+https://toss.im/simplicity-23
+
+https://www.gentlemonster.com/kr/?gclid=CjwKCAjwvJyjBhApEiwAWz2nLbUcZXP13851EPlF5VuzWmnBeccfuvcTulTQHjF2sPNMuyFyncuQ4BoCPbMQAvD_BwE
+
+https://www.surfit.io/
