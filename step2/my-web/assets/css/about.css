@@ -1,0 +1,120 @@
+#about .contain {
+  margin-top: 55px;
+}
+#about .items {
+  width: 570px;
+  height: 250px;
+  float: left;
+  color: #fff;
+  padding-left: 30px;
+  padding-top: 100px;
+  position: relative;
+}
+#about .contain::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+/* 이거 보니까 3, 4, 6번 같은데 왜 못합침??? 따로씀??? 가독성때문임??? 근데 같이하면 좋잖아 왜??? */
+#about .items:nth-child(2) {
+  height: 300px;
+  margin-left: 30px;
+}
+#about .items:nth-child(3) {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#about .items:nth-child(4) {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#about .items:nth-child(5) {
+  margin-top: 30px;
+}
+#about .items:nth-child(6) {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+#about .sm {
+  width: 270px;
+  height: 220px;
+}
+#about .items:first-child {
+  height: 550px;
+}
+#about .items-title {
+  font-size: 23.8px;
+  /* -패딩은 멀까요 그럼 마진도 -가 되나여??? */
+  /* 남의 영역도 겹칠수 있을까여?? */
+  padding-bottom: -2px;
+}
+#about .items li {
+  font-size: 16.5px;
+  padding-top: 32px;
+  padding-right: 14px;
+  word-break: break-all;
+  opacity: 0.8;
+}
+#about .items .num {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 75px;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  line-height: 75px;
+  font-size: 23.5;
+  transform: 0.5s;
+}
+#about .items .num:hover {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+@media (max-width: 480px) {
+  #about .contain {
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+  }
+  #about .items {
+    width: 450px;
+    height: 250px;
+    float: none;
+    margin: 0;
+  }
+  #about .items:nth-child(odd) {
+    order: 0;
+  }
+  #about .items:nth-child(even) {
+    order: 1;
+  }
+  #about .items:first-child {
+    height: 250px;
+    overflow: hidden;
+    margin: 0 auto 0 auto;
+  }
+  #about .items li {
+    padding-right: 15px;
+  }
+  #about .items:nth-child(2) {
+    height: 250px;
+    margin: 30px auto 0 auto;
+  }
+  #about .items:nth-child(3) {
+    height: 250px;
+    margin: 30px auto 0 auto;
+  }
+  #about .items:nth-child(4) {
+    height: 250px;
+    margin: 30px auto 0 auto;
+  }
+  #about .items:nth-child(5) {
+    height: 250px;
+    margin: 30px auto 0 auto;
+  }
+  #about .items:nth-child(6) {
+    height: 250px;
+    margin: 30px auto 0 auto;
+  }
+}

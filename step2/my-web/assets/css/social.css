@@ -1,0 +1,36 @@
+#social .contain {
+  margin-top: 110px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#social .fill:first-child {
+  margin-left: 0;
+}
+#social .fill {
+  float: left;
+  margin-left: 167px;
+}
+#social .fill img {
+  border-radius: 10px;
+  transition: 0.5s;
+}
+#social .fill:hover {
+  perspective: 1000px;
+}
+#social .fill img:hover {
+  transform: rotateY(180deg);
+}
+
+@media (max-width: 480px) {
+  #social .contain {
+    margin-top: 55px;
+  }
+  #social .fill {
+    margin-left: 30px;
+  }
+  #social .fill img {
+    width: 89px;
+    height: 90px;
+  }
+}
